@@ -5,8 +5,8 @@
 # CONTEXT:
 _ INSTANA is an Application Performance Monitoring (APM) observability tool, originally designed with a Cloud Native approach and focused on working with containers and microservices.
 _ Currently, INSTANA offers much more, going beyond mere monitoring to achieve true observability across different environments and platforms.
-_ Regarding problem detection, INSTANA allows you to:
-
+ Regarding problem detection, INSTANA allows you to:
+ 
   + Monitor applications, microservices, and containers.
   + Detect bottlenecks, latency, errors, or resource saturation (CPU, RAM, network).
   + Generate real-time metrics and alerts on the client's platform performance.
