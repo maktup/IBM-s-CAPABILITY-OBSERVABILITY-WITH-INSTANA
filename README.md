@@ -14,17 +14,17 @@
 # OBJECTIVE:
 Understanding how to implement a solution to observe the different IBM capabilities on OpenShift with Instanta. In this case:
 
-_ IBM App Connect Enterprise.
-_ IBM MQ Advanced.
-_ IBM Liberty.
+- IBM App Connect Enterprise.
+- IBM MQ Advanced.
+- IBM Liberty.
 
 The scope of the content that will be displayed associated with Instanta is:
 
-_ INSTANA & OPENSHIFT (Integration).
-_ IBM App Connect Enterprise (Configuration).
-_ IBM MQ Advanced (Configuration).
-_ IBM Liberty (Configuration).
-_ Alert Manager (Configuration).
+- INSTANA & OPENSHIFT (Integration).
+- IBM App Connect Enterprise (Configuration).
+- IBM MQ Advanced (Configuration).
+- IBM Liberty (Configuration).
+- Alert Manager (Configuration).
 
 # DOWNLOAD: 
 The entire solution procedure is explained in detail here: 
