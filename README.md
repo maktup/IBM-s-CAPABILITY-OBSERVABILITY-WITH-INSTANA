@@ -4,9 +4,7 @@
 
 # CONTEXT:
 _ INSTANA is an Application Performance Monitoring (APM) observability tool, originally designed with a Cloud Native approach and focused on working with containers and microservices.
-
 _ Currently, INSTANA offers much more, going beyond mere monitoring to achieve true observability across different environments and platforms.
-
 _ Regarding problem detection, INSTANA allows you to:
 
   + Monitor applications, microservices, and containers.
@@ -17,21 +15,15 @@ _ Regarding problem detection, INSTANA allows you to:
 Understanding how to implement a solution to observe the different IBM capabilities on OpenShift with Instanta. In this case:
 
 _ IBM App Connect Enterprise.
-
 _ IBM MQ Advanced.
-
 _ IBM Liberty.
 
 The scope of the content that will be displayed associated with Instanta is:
 
 _ INSTANA & OPENSHIFT (Integration).
-
 _ IBM App Connect Enterprise (Configuration).
-
 _ IBM MQ Advanced (Configuration).
-
 _ IBM Liberty (Configuration).
-
 _ Alert Manager (Configuration).
 
 # DOWNLOAD: 
